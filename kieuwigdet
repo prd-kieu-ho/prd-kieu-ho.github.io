@@ -34,7 +34,7 @@
       </tr>
       <tr>
         <td>Widget name:</td>
-        <td>Kieu widget</td>
+        <td>Kieu Test</td>
       </tr>
     </table>
     
@@ -68,9 +68,8 @@
         apply.src = 'https://d2cxf26suf1qae.cloudfront.net/static/site/js/widget-client.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(apply, s);
-    })('https://test.paradox.ai', 'avuocohjghnnmcemkawr');
+    })('https://test.paradox.ai', 'vtjbqqhrbhvvtixcgilg');
 </script>
-
 
    <div id="content">
    <iframe id="main-iframe" width="100%" height="100%" src="https://assets.topdev.vn/images/2021/03/11/galleryvzRrDSLwLwJGMVCfVDhnv9rNbgwQZysj-KQNbz.png" frameborder="0"> == $0
